@@ -1,0 +1,51 @@
+.area-aprender-conosco{
+    margin-top: 8vh;
+}
+
+.botao-aprender{
+    color: white;
+    background: #682C0E;
+    border-radius: 10px; 
+    width: 200px;
+    height: 44px;
+}
+
+.dupla-noot{
+	width:350px;
+	height: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ---------- Responsividade ------------------------------------ */
+
+@media (max-width: 990px) {
+    .footer-resp{
+        display: flex !important;
+        flex-direction: column !important;
+        align-items: center !important;
+        background-color: brown !important;
+    }
+}
