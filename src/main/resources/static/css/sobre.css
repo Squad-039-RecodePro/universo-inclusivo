@@ -1,0 +1,35 @@
+.bg-rosa-claro {
+	background: #f9f7ff url("/img/imagem-destaque-sobre.jpeg") no-repeat center right;
+	background-size: contain;
+	height: 80vh;
+}
+
+.titulo-sobre-inicio {
+	color: #0c0531;
+	font-weight: bold;
+}
+
+.area-sobre-inicio {
+	width: 40%;
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+	.area-sobre-inicio {
+		width: 50%;
+	}
+}
+
+.texto-sobre-inicio {
+	width: 85%;
+}
+
+.botao-explorar-curso {
+	color: white;
+	background: #22aa55;
+	border-radius: 15px;
+	padding: 8px 15px;
+	text-decoration: none;
+	font-weight: bold;
+	display: inline-block;
+	text-align: center;
+}
