@@ -1,3 +1,7 @@
+* ul{
+	    padding-left:0 !important;
+}
+
 .area-aprender-conosco {
 	margin-top: 8vh;
 }
@@ -49,6 +53,13 @@
 		display: flex !important;
 		flex-direction: column !important;
 		align-items: center !important;
-		background-color: brown !important;
 	}
+
+	.container-respons{
+		flex-direction: column !important;
+		align-items: center !important;
+		justify-content: center !important;
+		margin-bottom: 20px !important;
+	}
+
 }
