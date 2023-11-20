@@ -1,4 +1,4 @@
-# Construção do  Projeto Final referente ao programa de formação profissional em fullStack da Recode Pro.
+# Construção do  Projeto Final referente ao programa de formação profissional em FullStack da Recode Pro.
 # Universo-Inclusivo
 
 Visão Geral do Projeto
