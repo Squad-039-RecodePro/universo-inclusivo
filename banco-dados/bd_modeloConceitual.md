@@ -1,0 +1,1 @@
+![image](https://github.com/rxaviersantos/versionamento/assets/85380530/13446328-2da9-483c-aa63-6ee235fb4d12)
