@@ -1,4 +1,4 @@
-<h1 align="center"> Estrutura de Banco de Dados </h1>
+<h1 align="center"> Estrutura de Back-end</h1>
 
 <p align="center">
   Projeto final
