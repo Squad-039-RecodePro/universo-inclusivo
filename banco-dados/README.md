@@ -13,7 +13,7 @@ O banco de dados *nome_seu_banco* foi desenvolvido para gerenciar informações 
 
 *Aluno (aluno)*
 ```
-*id: Identificador único do aluno.
+id: Identificador único do aluno.
 nome: Nome do aluno.
 cpf: Número de CPF do aluno.
 email: Endereço de e-mail do aluno.
