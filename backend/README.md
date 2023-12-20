@@ -57,9 +57,9 @@ cd universo-inclusivo
 
 - **[Java](https://www.java.com/pt-BR/)**
   
-- **[Java](https://spring.io/projects/spring-boot)**
+- **[Spring](https://spring.io/projects/spring-boot)**
   
-- **[Java](https://www.mysql.com/)**
+- **[MySQL](https://www.mysql.com/)**
   
 - **[Thymeleaf](https://www.thymeleaf.org/)**
   
